@@ -1,0 +1,25 @@
+{
+
+  success: true,
+
+  user: {
+    id: 1, 
+    name: 'Alice',  
+    email: 'alice@example.com',
+    items: [
+      {
+        id: 12,
+        name: 'Apple',
+        color: 'Red'
+      },{
+        id: 13,
+        name: 'Banana',
+        color: 'Yellow'
+      },{
+        id: 14,
+        name: 'Carrot',
+        color: 'Orange'
+      }
+    ]
+  }
+}
